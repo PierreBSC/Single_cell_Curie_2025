@@ -56,12 +56,14 @@ The two most common tools for scRNA-seq analysis are [Seurat](https://satijalab.
 - The first paper introducing the concept of MetaCells by the Tanay Lab **MetaCell: analysis of single-cell RNA-seq data using K-nn graph partitions** (Baran et al. 2019). This approach has been implemented and further optimised by the Pe'er lab in **SEACells infers transcriptional and epigenomic cellular states from single-cell genomics data** (Persad et al. 2023). It is worth noting that the first paper is quite technical and hard to read but contains a lot of interesting insights and ideas.
 - f
 
-### Part V: The current challenges of the field.
+### Part V: The challenges and future of the single-cell field.
 
 - An example of typical single-cell pseudoscience  **A single-cell atlas of the peripheral immune response in patients with severe COVID-19** (Wilk et al. 2020). The problematic part is corresponding to Figure 4.
 - A long discussion on the potential flaws of dimensionality reduction applied to single-cell genomic from the Pachter Lab: **The specious art of single-cell genomics** (Chari and Pachter 2023).
 - Also from the Pachter lab, an in-depth comparison of the two main single-cell analysis packages (Seurat and Scanpy)  and of the impact of the package versions: **The impact of package selection and versioning on single-cell RNA-seq analysis** (Rich et al. 2024).
-- One of the first singel-cell annotation tool that unlike other methods is relying on a 'simple' autoencoder and not on a complex and questionable attention-based structure: **A cell atlas foundation model for scalable search of similar human cells** (Heimberg et al. 2024).
+- One of the first single-cell annotation tool that unlike other methods is relying on a 'simple' autoencoder and not on a complex and questionable attention-based structure: **A cell atlas foundation model for scalable search of similar human cells** (Heimberg et al. 2024).
+- A nice review on the different spatial omic methods: **The emerging landscape of spatial profiling technologies** (Moffit et al. 2022).
+- Nice paper on the potential of Raman imaging for single-cell analysis: **Raman2RNA: Live-cell label-free prediction of single-cell RNA profiles by Raman microscopy** (Kobayashi-Kirschvink et al. 2024).
 
 
 
