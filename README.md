@@ -11,7 +11,7 @@ This GitHub contains a list of ressources for a better understanding of the sing
 
 ## Tools 
 
-The two most common tools for scRNA-seq analysis are [Seurat](https://satijalab.org/seurat/) and [Scanpy](https://scanpy.readthedocs.io/en/stable/), two R an Python packages respectively. While these two tools are commonly used throughout the field, I personnaly prefer the use of the [Pagoda2](https://github.com/kharchenkolab/pagoda2) package, a lightweight yet extremely efficiant R package from the Kharchenko lab. As an alternative, metacell-based approach are also worth noting including the original R package [MetaCell](https://metacells.readthedocs.io/en/latest/) and the recently published [SEACell](https://github.com/dpeerlab/SEACells).
+The two most common tools for scRNA-seq analysis are [Seurat](https://satijalab.org/seurat/) and [Scanpy](https://scanpy.readthedocs.io/en/stable/), two R an Python packages respectively. While these two tools are commonly used throughout the field, I personnaly prefer the use of the [Pagoda2](https://github.com/kharchenkolab/pagoda2) package, a lightweight yet extremely efficient R package from the Kharchenko lab. As an alternative, metacell-based approach are also worth noting including the original R package [MetaCell](https://metacells.readthedocs.io/en/latest/) and the recently published [SEACell](https://github.com/dpeerlab/SEACells).
 
 ## Landmark papers
 
@@ -22,7 +22,7 @@ The two most common tools for scRNA-seq analysis are [Seurat](https://satijalab.
 - One of the first example of the interest and power of single-cell analysis:  **The biochemical basis of an all-or-none cell fate switch in Xenopus oocytes** (Ferrel and  Machleder, 1998).
 - First paper prooving that cancer cells can switch between various states: **Stochastic State Transitions Give Rise to Phenotypic Equilibrium in Populations of Cancer Cells** (Gupta et al. 2011).
 - Analysis of the NF-kB oscillations in individual cells: **Single-cell NF-κB dynamics reveal digital activation and analog information processing in cells** (Tay et al. 2010).
-- f
+
 
 
 
