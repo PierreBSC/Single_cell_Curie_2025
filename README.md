@@ -1,11 +1,11 @@
-This GitHub contains a list of ressources for a better understanding of the single-cell genomic field. These ressources obviously include landmark papers, but also blogs, YouTube videos and channels.
+This GitHub contains a list of ressources for a better understanding of the single-cell genomic field. These ressources include landmark papers, but also blogs, YouTube videos and channels.
 
 
 ## Websites, videos and blogs
 
 - **Likely one of the most important and valuable ressource in the field**: the list and technical details of every published single-cell protocol aggregated by the Teichman lab available [here](https://teichlab.github.io/scg_lib_structs/).
 - The excellent blog of Valentine Svensson that focuses on the computational analysis of single-cell data: [What do you mean 'heterogeneity'](https://www.nxn.se/).
--  An other excellent blog is the [blog of Jean Fan](https://jean.fan/blog) that thends to focus more on spatial analysis 
+-  An other excellent blog is the [blog of Jean Fan](https://jean.fan/blog) that thends to focus more on spatial analysis.
 -  An in-depth description of the different dimensionality reduction methods commonly used in the single-cell genomic field such as t-SNE and UMAP. Available in the [smallvis GitHub](https://jlmelville.github.io/smallvis/). More broadly this GitHub contains a large number of implementations and other valuable ressources.
 -  The Broad institute provides a list of very interesting computational biology YouTube videos, including videos dedicated to single-cell data analysis. More than a hundred videos are available [here](https://www.youtube.com/playlist?list=PLlMMtlgw6qNjROoMNTBQjAcdx53kV50cS).
 
@@ -18,7 +18,7 @@ The two most common tools for scRNA-seq analysis are [Seurat](https://satijalab.
 ### Part I: The prehistory of single-cell analysis.
 
 
-- If you read spanish: **Estructura de los centros nerviosos de las aves** (Cajal, 1888). Of course the interest is more historical than scientific
+- If you read spanish: **Estructura de los centros nerviosos de las aves** (Cajal, 1888). Of course the interest is more historical than scientific.
 - One of the first example of the interest and power of single-cell analysis:  **The biochemical basis of an all-or-none cell fate switch in Xenopus oocytes** (Ferrel and  Machleder, 1998).
 - First paper prooving that cancer cells can switch between various states: **Stochastic State Transitions Give Rise to Phenotypic Equilibrium in Populations of Cancer Cells** (Gupta et al. 2011).
 - Analysis of the NF-kB oscillations in individual cells: **Single-cell NF-κB dynamics reveal digital activation and analog information processing in cells** (Tay et al. 2010).
@@ -52,9 +52,8 @@ The two most common tools for scRNA-seq analysis are [Seurat](https://satijalab.
 - If there is only one paper to read about single-cell data analysis it is the excellent **The triumphs and limitations of computational methods for scRNA-seq** (Kharchenko, 2021).
 - First paper introducing graph-based clustering under the name of "Phenograph": **Data-Driven Phenotypic Dissection of AML Reveals Progenitor-like Cells that Correlate with Prognosis** (Levine et al. 2015). While initially designed for the analysis of mass and high-dimensional flow cytometry data, this algorithm is now the standard for single-cell analysis due to its scalability and robustness.
 - A simple yet essential paper from Valentine Svensson: **Droplet scRNA-seq is not zero-inflated** (Svensson 2020). Very important message that can be applied to any field: simpler is (very) ofter better !
-- The paper introducing the Velocity approach: **RNA velocity of single cells** (La Manno et al, 2018)
+- The paper introducing the Velocity approach: **RNA velocity of single cells** (La Manno et al, 2018).
 - The first paper introducing the concept of MetaCells by the Tanay Lab **MetaCell: analysis of single-cell RNA-seq data using K-nn graph partitions** (Baran et al. 2019). This approach has been implemented and further optimised by the Pe'er lab in **SEACells infers transcriptional and epigenomic cellular states from single-cell genomics data** (Persad et al. 2023). It is worth noting that the first paper is quite technical and hard to read but contains a lot of interesting insights and ideas.
-- f
 
 ### Part V: The challenges and future of the single-cell field.
 
