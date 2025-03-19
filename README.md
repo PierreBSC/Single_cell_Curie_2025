@@ -38,22 +38,22 @@ The two most common tools for scRNA-seq analysis are [Seurat](https://satijalab.
 - Paper introducing CUT&Tag for single-cell epigenomic: **CUT&Tag for efficient epigenomic profiling of small samples and single cells** (Kaya-Okur et al. 2019).
 - The first large-scale scATAC-seq protocol, i.e. droplet-based protocol, **Chromatin accessibility profiling by ATAC-seq** (Grandi et al. 2022).
 
-### Part III: The discoveries enabled by scRNA-seq.
-
-- The first highly sucessful application of scRNA-seq *in-vitro* with two studies from the Regev lab: **Single-cell transcriptomics reveals bimodality in expression and splicing in immune cells**  (Shalek et al. 2013) and **Single-cell RNA-seq reveals dynamic paracrine control of cellular variation** (Shalek et al. 2014). 
-- The first applications of scRNA-seq to study cancer *in-vivo*: **Dissecting the multicellular ecosystem of metastatic melanoma by single-cell RNA-seq** (Tirosh et al. 2016). Was followed a few years later by brilliant albeit heavy paper on glioblastoma: **An Integrative Model of Cellular States, Plasticity, and Genetics for Glioblastoma** (Neftel et al. 2019). 
-- Probably one of the most impactfull single-cell paper that revelead the progressive activation of brain macrophages in neurodegenerative : **A Unique Microglia Type Associated with Restricting Development of Alzheimer’s Disease** (Keren-Shaul et al. 2017).
-- One single-cell atlas among many others: **A high-resolution transcriptomic and spatial atlas of cell types in the whole mouse brain** (Yao et al. 2023).
-
-
-
-### Part IV: How to analyze single-cell data ?
+### Part III: How to analyze single-cell data ?
 
 - If there is only one paper to read about single-cell data analysis it is the excellent **The triumphs and limitations of computational methods for scRNA-seq** (Kharchenko, 2021).
 - First paper introducing graph-based clustering under the name of "Phenograph": **Data-Driven Phenotypic Dissection of AML Reveals Progenitor-like Cells that Correlate with Prognosis** (Levine et al. 2015). While initially designed for the analysis of mass and high-dimensional flow cytometry data, this algorithm is now the standard for single-cell analysis due to its scalability and robustness.
 - A simple yet essential paper from Valentine Svensson: **Droplet scRNA-seq is not zero-inflated** (Svensson 2020). Very important message that can be applied to any field: simpler is (very) ofter better !
 - The paper introducing the Velocity approach: **RNA velocity of single cells** (La Manno et al, 2018).
 - The first paper introducing the concept of MetaCells by the Tanay Lab **MetaCell: analysis of single-cell RNA-seq data using K-nn graph partitions** (Baran et al. 2019). This approach has been implemented and further optimised by the Pe'er lab in **SEACells infers transcriptional and epigenomic cellular states from single-cell genomics data** (Persad et al. 2023). It is worth noting that the first paper is quite technical and hard to read but contains a lot of interesting insights and ideas.
+
+
+### Part IV: The discoveries enabled by scRNA-seq.
+
+- The first highly sucessful application of scRNA-seq *in-vitro* with two studies from the Regev lab: **Single-cell transcriptomics reveals bimodality in expression and splicing in immune cells**  (Shalek et al. 2013) and **Single-cell RNA-seq reveals dynamic paracrine control of cellular variation** (Shalek et al. 2014). 
+- The first applications of scRNA-seq to study cancer *in-vivo*: **Dissecting the multicellular ecosystem of metastatic melanoma by single-cell RNA-seq** (Tirosh et al. 2016). Was followed a few years later by brilliant albeit heavy paper on glioblastoma: **An Integrative Model of Cellular States, Plasticity, and Genetics for Glioblastoma** (Neftel et al. 2019). 
+- Probably one of the most impactfull single-cell paper that revelead the progressive activation of brain macrophages in neurodegenerative : **A Unique Microglia Type Associated with Restricting Development of Alzheimer’s Disease** (Keren-Shaul et al. 2017).
+- One single-cell atlas among many others: **A high-resolution transcriptomic and spatial atlas of cell types in the whole mouse brain** (Yao et al. 2023).
+
 
 ### Part V: The challenges and future of the single-cell field.
 
